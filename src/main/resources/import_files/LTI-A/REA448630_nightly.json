@@ -1,0 +1,30 @@
+{  
+   "aud":[  
+      "lti-ri.imsglobal.org.nightly"
+   ],
+   "https://purl.imsglobal.org/spec/lti/claim/message_type":"LtiDeepLinkingResponse",
+   "https://purl.imsglobal.org/spec/lti/claim/deployment_id":"Deployment20190606001",
+   "https://purl.imsglobal.org/spec/lti/claim/version":"1.3.0",
+   "https://purl.imsglobal.org/spec/lti-dl/claim/content_items":[  
+ 	  {  
+         "thumbnail":{  
+            "width":90,
+            "url":"https://nightly-www.savvasrealizedev.com/community/realizeit/skins/default/images/mediatype/icon/test@2x.png",
+            "height":90
+         },
+         "custom":{  
+			"productId":"1234",
+            "contentId":"bc0591b2-f6ff-39a4-bcd6-9ac61cf91a19/5",
+            "contentViewerUrl":"https://nightly-www.savvasrealizedev.com/community/browseAll/content/bc0591b2-f6ff-39a4-bcd6-9ac61cf91a19/5"
+         },
+         "type":"ltiResourceLink",
+         "title":"LTIA Native Test Assessment MC ST",
+         "url":"https://ltitoolgateway-service.nightly.realizedev-test.com/launch/content/bc0591b2-f6ff-39a4-bcd6-9ac61cf91a19/5"
+      }
+   ],
+   "iss":"s6BhdRkqt3.lti-a.nightly",
+   "exp":1563346766,
+   "nonce":"96264e90-2229-4170-9a30-56a29cb6da8e",
+   "iat":1563346466,
+   "https://purl.imsglobal.org/spec/lti-dl/claim/data":"Some random opaque data that MUST be sent back"
+}

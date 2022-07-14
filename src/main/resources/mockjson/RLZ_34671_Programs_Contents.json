@@ -1,0 +1,32 @@
+{
+  "data": {
+    "getSearchResult": {
+      "totalAvailable": 123813,
+      "contents": [
+        {
+          "contentId": "56a4951f-4efc-3b34-913e-8ffde3c93317",
+          "contentVersion": 1,
+          "title": "ABCDEF
+          "programNames": [
+            "Elevate Science Grade 3"
+          ],
+          "mediaType": "Link",
+          "contentInfo": {
+            "description": "",
+            "materials": [],
+            "keywords": [],
+            "pacing": "",
+            "author": "",
+            "genres": [],
+            "textFeatures": null,
+            "contentAreas": null,
+            "comprehensionSkills": null,
+            "isbn": "",
+            "notebookEntries": null,
+            "activities": [],
+            "__typename": "ContentInfo"
+          },
+          }
+          					}
+          					}
+ }

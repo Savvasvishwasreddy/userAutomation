@@ -1,0 +1,107 @@
+/************************************************************************************************************
+ * Project              : Realize UI Test Automation
+ * Source file name     : build.gradle
+ * Description          : 
+ * Written By           : 
+ *
+ ************************************************************************************************************/
+
+apply plugin: 'java'
+apply plugin: 'eclipse'
+apply plugin: 'maven'
+
+group='com.savvas.cv.mfe'
+version = '0.0.1-SNAPSHOT'
+compileJava.options.encoding = 'UTF-8' //iso-8859-1
+
+if (!hasProperty('nexusUsername')) {
+    ext.nexusUsername = ''
+    ext.nexusPassword = ''
+}
+
+sourceCompatibility = 11
+jar {
+	baseName='test-itemselection-sct'
+    manifest {
+        attributes 'Implementation-Title': 'Savvas Test Automation',
+                   'Implementation-Version': version
+    }
+}
+
+eclipse {
+    classpath {
+        downloadJavadoc = true
+        downloadSources = true
+    }
+}
+
+repositories {
+    mavenCentral()
+    
+	maven {
+		credentials {
+			username nexusUsername
+			password nexusPassword
+		}
+		url "http://nexus.realizedev-test.com/nexus/content/repositories/snapshots"
+	}
+    mavenLocal()
+}
+
+
+defaultTasks 'makePretty', 'compileJava', 'check', 'test'
+dependencies {
+	compile('com.savvas:test-automation-framework-sct:4.0.39-SNAPSHOT')
+	configurations.implementation {
+    	exclude group: 'io.netty', module: 'netty-all'
+	}
+	compile ('org.apache.commons:commons-text:1.9')
+	compile 'io.jsonwebtoken:jjwt-api:0.10.5'
+    runtime 'io.jsonwebtoken:jjwt-impl:0.10.5', 'io.jsonwebtoken:jjwt-jackson:0.10.5'
+	implementation 'org.seleniumhq.selenium:selenium-devtools-v100:4.2.1'
+}
+
+
+
+task makePretty(type: Delete) {
+  delete 'test-output', 'build/reports', 'build/test-results', 'build/classes', 'build', 'target'
+}
+
+task doUITest (type: Test) {
+    systemProperties System.getProperties()
+    testClassesDirs = sourceSets.main.output.classesDirs
+    classpath = sourceSets.main.runtimeClasspath
+    outputs.upToDateWhen { false }
+    testLogging.showStandardStreams = true
+
+    useTestNG {
+        if(project.hasProperty("testXMLFileName")) {
+            suites "testxml/" + project.property("testXMLFileName")
+            println ">>Executing "+project.property("testXMLFileName")+ " tests"
+        } else {
+            suites "testxml/ItemSelectionSuite.xml"
+            println ">>Executing ItemSelectionSuite.xml tests"
+        }
+    }
+}
+
+sourceSets {
+    main {
+        java {
+            srcDirs = ["src/main/java"]
+        }
+    }
+}
+
+
+uploadArchives {
+	repositories {
+		mavenDeployer {
+			pom.artifactId='cv-sct'
+				repository(
+					url: "http://nexus.realizedev-test.com/nexus/content/repositories/snapshots"){
+					authentication(userName: nexusUsername, password: nexusPassword)
+			        }
+		}
+	}
+}

@@ -1,0 +1,36 @@
+{
+  "iss": "jaguar.prod",
+  "aud": [
+    "lti-ri.imsglobal.org.jaguar.prod"
+  ],
+  "nonce": "0e4ea21d-9639-4ab0-bd50-ea24cf72950d",
+  "iat": 1591705047,
+  "exp": 1591705347,
+  "https://purl.imsglobal.org/spec/lti/claim/deployment_id": "Deployment20190621001",
+  "https://purl.imsglobal.org/spec/lti/claim/message_type": "LtiDeepLinkingResponse",
+  "https://purl.imsglobal.org/spec/lti/claim/version": "1.3.0",
+  "https://purl.imsglobal.org/spec/lti-dl/claim/content_items": [
+    {
+      "type": "ltiResourceLink",
+      "title": "LTIA MathXL Unit A Test with skills ST",
+      "url": "https://ltitoolgateway-service.savvasrealize.com/launch/content/20d8d4ec-8ea5-36cf-8794-7fd66db96265/2?productId=262773",
+      "lineItem": {
+        "scoreMaximum": 100.0,
+        "label": "LTIA MathXL Unit A Test with skills ST",
+        "resourceId": "20d8d4ec-8ea5-36cf-8794-7fd66db96265/2",
+        "tag": ""
+      },
+      "thumbnail": {
+        "url": "https://www.savvasrealize.com/community/realizeit/skins/default/images/mediatype/icon/test@2x.png",
+        "height": 90,
+        "width": 90
+      },
+      "custom": {
+      	"contentViewerUrl":"https://www.savvasrealize.com/community/browseAll/content/20d8d4ec-8ea5-36cf-8794-7fd66db96265/2",
+        "contentId": "20d8d4ec-8ea5-36cf-8794-7fd66db96265/2",
+        "productId": "262773"
+      }
+    }
+  ],
+  "https://purl.imsglobal.org/spec/lti-dl/claim/data": "Some random opaque data that MUST be sent back"
+}

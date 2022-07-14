@@ -1,0 +1,268 @@
+{
+  "data": {
+    "getContentById": {
+      "id": "daf5f82d-9b68-3113-8618-f320d6c74d96",
+      "title": "! DomainChanges_PreRegression",
+      "mediaType": "Tier",
+      "thumbnailUrls": [],
+      "essayPrompt": false,
+      "version": 3,
+      "root": true,
+      "skills": [],
+      "text": "test",
+      "materials": [],
+      "customizedItemDefaultView": false,
+      "customizedItem": null,
+      "originalItemId": null,
+      "hideFromStudent": false,
+      "associativeProps": null,
+      "programs": [
+        "Realize Sample Program"
+      ],
+      "contribSource": "Pearson",
+      "teacherOnly": "No",
+      "playerTarget": "realize",
+      "countsTowardMastery": false,
+      "attachments": [
+        {
+          "file": null,
+          "__typename": "Attachment"
+        },
+        {
+          "file": null,
+          "__typename": "Attachment"
+        }
+      ],
+      "remediationProperties": null,
+      "teacherSupportProperties": null,
+      "contentItems": [
+        {
+          "id": "100001",
+          "title": "Content 1",
+          "essayPrompt": false,
+          "mediaType": "Realize Reader Selection",
+          "thumbnailUrls": [],
+          "version": 3,
+          "root": false,
+          "teacherOnly": "No",
+          "rubricAvailable": false,
+          "fileType": "URL",
+          "skills": [],
+          "status": "PUBLISHED",
+          "customizedItemDefaultView": false,
+          "originalItemId": null,
+          "hideFromStudent": false,
+          "associativeProps": "{\"displayOrder\":\"2\",\"mediaType\":\"Realize Reader Selection\",\"titleInSequence\":\"Content 1\",\"contentType\":\"Lesson\"}",
+          "playerTarget": "realize",
+          "countsTowardMastery": false,
+          "externalId": "June10_DomainChanges_002",
+          "programs": [
+            "Realize Sample Program"
+          ],
+          "attachments": [
+            {
+              "file": "@realize_webapp.realizeReader.page.host.url@/launch.html#/book/7OH7QKZ4DWZ/page/4",
+              "__typename": "Attachment"
+            }
+          ],
+          "customizedItem": null,
+          "text": "Content 1",
+          "tags": [
+            "Content 1"
+          ],
+          "pacing": "",
+          "materials": [],
+          "author": "",
+          "isbn": "",
+          "contribDate": "2020-06-10T11:33:04+0000",
+          "contribSource": "Pearson",
+          "teacherSupportProperties": null,
+          "remediationProperties": null,
+          "contentItems": null,
+          "__typename": "ContentItem"
+        },
+        {
+          "id": "100002",
+          "title": "Content 2",
+          "essayPrompt": false,
+          "mediaType": "Realize Reader Selection",
+          "thumbnailUrls": [],
+          "version": 3,
+          "root": false,
+          "teacherOnly": "No",
+          "rubricAvailable": false,
+          "fileType": "URL",
+          "skills": [],
+          "status": "PUBLISHED",
+          "customizedItemDefaultView": false,
+          "originalItemId": null,
+          "hideFromStudent": false,
+          "associativeProps": "{\"displayOrder\":\"3\",\"mediaType\":\"Realize Reader Selection\",\"titleInSequence\":\"Content 2\",\"contentType\":\"Lesson\"}",
+          "playerTarget": "realize",
+          "countsTowardMastery": false,
+          "externalId": "June10_DomainChanges_003",
+          "programs": [
+            "Realize Sample Program"
+          ],
+          "attachments": [
+            {
+              "file": "@realize_webapp.realizeReader.page.host.url@/launch.html#/book/7OH7QKZ4DWZ/page/8",
+              "__typename": "Attachment"
+            }
+          ],
+          "customizedItem": null,
+          "text": "Content 2",
+          "tags": [
+            "Content 2"
+          ],
+          "pacing": "",
+          "materials": [],
+          "author": "",
+          "isbn": "",
+          "contribDate": "2020-06-10T11:33:04+0000",
+          "contribSource": "Pearson",
+          "teacherSupportProperties": null,
+          "remediationProperties": null,
+          "contentItems": null,
+          "__typename": "ContentItem"
+        },
+        {
+          "id": "100003",
+          "title": "Content 3",
+          "essayPrompt": false,
+          "mediaType": "Realize Reader Selection",
+          "thumbnailUrls": [],
+          "version": 3,
+          "root": false,
+          "teacherOnly": "No",
+          "rubricAvailable": false,
+          "fileType": "URL",
+          "skills": [],
+          "status": "PUBLISHED",
+          "customizedItemDefaultView": false,
+          "originalItemId": null,
+          "hideFromStudent": false,
+          "associativeProps": "{\"displayOrder\":\"3\",\"mediaType\":\"Realize Reader Selection\",\"titleInSequence\":\"Content 3\",\"contentType\":\"Lesson\"}",
+          "playerTarget": "realize",
+          "countsTowardMastery": false,
+          "externalId": "June10_DomainChanges_003",
+          "programs": [
+            "Realize Sample Program"
+          ],
+          "attachments": [
+            {
+              "file": "@realize_webapp.realizeReader.page.host.url@/launch.html#/book/7OH7QKZ4DWZ/page/8",
+              "__typename": "Attachment"
+            }
+          ],
+          "customizedItem": null,
+          "text": "Content 3",
+          "tags": [
+            "Content 3"
+          ],
+          "pacing": "",
+          "materials": [],
+          "author": "",
+          "isbn": "",
+          "contribDate": "2020-06-10T11:33:04+0000",
+          "contribSource": "Pearson",
+          "teacherSupportProperties": null,
+          "remediationProperties": null,
+          "contentItems": null,
+          "__typename": "ContentItem"
+        },
+		{
+          "id": "100004",
+          "title": "Content 4",
+          "essayPrompt": false,
+          "mediaType": "Realize Reader Selection",
+          "thumbnailUrls": [],
+          "version": 3,
+          "root": false,
+          "teacherOnly": "No",
+          "rubricAvailable": false,
+          "fileType": "URL",
+          "skills": [],
+          "status": "PUBLISHED",
+          "customizedItemDefaultView": false,
+          "originalItemId": null,
+          "hideFromStudent": false,
+          "associativeProps": "{\"displayOrder\":\"3\",\"mediaType\":\"Realize Reader Selection\",\"titleInSequence\":\"Content 4\",\"contentType\":\"Lesson\"}",
+          "playerTarget": "realize",
+          "countsTowardMastery": false,
+          "externalId": "June10_DomainChanges_003",
+          "programs": [
+            "Realize Sample Program"
+          ],
+          "attachments": [
+            {
+              "file": "@realize_webapp.realizeReader.page.host.url@/launch.html#/book/7OH7QKZ4DWZ/page/8",
+              "__typename": "Attachment"
+            }
+          ],
+          "customizedItem": null,
+          "text": "Content 4",
+          "tags": [
+            "Content 4"
+          ],
+          "pacing": "",
+          "materials": [],
+          "author": "",
+          "isbn": "",
+          "contribDate": "2020-06-10T11:33:04+0000",
+          "contribSource": "Pearson",
+          "teacherSupportProperties": null,
+          "remediationProperties": null,
+          "contentItems": null,
+          "__typename": "ContentItem"
+        },
+		{
+          "id": "100005",
+          "title": "Content 5",
+          "essayPrompt": false,
+          "mediaType": "Realize Reader Selection",
+          "thumbnailUrls": [],
+          "version": 3,
+          "root": false,
+          "teacherOnly": "No",
+          "rubricAvailable": false,
+          "fileType": "URL",
+          "skills": [],
+          "status": "PUBLISHED",
+          "customizedItemDefaultView": false,
+          "originalItemId": null,
+          "hideFromStudent": false,
+          "associativeProps": "{\"displayOrder\":\"3\",\"mediaType\":\"Realize Reader Selection\",\"titleInSequence\":\"Content 5\",\"contentType\":\"Lesson\"}",
+          "playerTarget": "realize",
+          "countsTowardMastery": false,
+          "externalId": "June10_DomainChanges_003",
+          "programs": [
+            "Realize Sample Program"
+          ],
+          "attachments": [
+            {
+              "file": "@realize_webapp.realizeReader.page.host.url@/launch.html#/book/7OH7QKZ4DWZ/page/8",
+              "__typename": "Attachment"
+            }
+          ],
+          "customizedItem": null,
+          "text": "Content 5",
+          "tags": [
+            "Content 5"
+          ],
+          "pacing": "",
+          "materials": [],
+          "author": "",
+          "isbn": "",
+          "contribDate": "2020-06-10T11:33:04+0000",
+          "contribSource": "Pearson",
+          "teacherSupportProperties": null,
+          "remediationProperties": null,
+          "contentItems": null,
+          "__typename": "ContentItem"
+        }
+      ],
+      "__typename": "ContentItem"
+    }
+  }
+}

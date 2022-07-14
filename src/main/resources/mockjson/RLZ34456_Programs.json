@@ -1,0 +1,24 @@
+{
+    "data": {
+        "getPrograms": {
+            "totalMatches": 1,
+            "results": [
+                {
+                    "id": "f1b0310e-5a79-369b-9044-5b15da3c2de9",
+                    "title": "Program 001",
+                    "version": 1,
+                    "status": "PUBLISHED",
+                    "subject": [
+                        "Math"
+                    ],
+                    "thumbnailLocation": "distance_learning_subscription/distance_learning_subscription",
+                    "gradeNumbers": [
+                        "K"
+                    ],
+                    "__typename": "ProgramView"
+                }
+            ],
+            "__typename": "ResultView"
+        }
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "data": {
+        "getContentById": {
+            "id": "654321",
+            "title": "Test TOC Import",
+            "mediaType": "Tier",
+            "thumbnailUrls": [],
+            "essayPrompt": false,
+            "version": 3,
+            "root": true,
+            "skills": [],
+            "text": "test",
+            "materials": [],
+            "customizedItemDefaultView": false,
+            "customizedItem": null,
+            "originalItemId": null,
+            "hideFromStudent": false,
+            "associativeProps": null,
+            "programs": [
+                "Realize Sample Program"
+            ],
+            "contribSource": "Pearson",
+            "teacherOnly": "No",
+            "playerTarget": "realize",
+            "countsTowardMastery": false,
+            "attachments": [
+                {
+                    "file": null,
+                    "__typename": "Attachment"
+                },
+                {
+                    "file": null,
+                    "__typename": "Attachment"
+                }
+            ],
+            "remediationProperties": null,
+            "teacherSupportProperties": null,
+            "contentItems": [
+                {
+                    "id": "575873c6-c96e-3f98-a141-16c6929b843f",
+                    "title": "Leveled readers Lesson",
+                    "essayPrompt": false,
+                    "mediaType": "Lesson",
+                    "thumbnailUrls": [],
+                    "version": 2,
+                    "root": false,
+                    "teacherOnly": "No",
+                    "rubricAvailable": false,
+                    "fileType": "Sequence",
+                    "skills": [
+                        "G1\\G1_07\\G1_07_01",
+                        "G0\\G0_07\\G0_07_03",
+                        "G1\\G1_07\\G1_07_03"
+                    ],
+                    "status": "PUBLISHED",
+                    "customizedItemDefaultView": false,
+                    "originalItemId": null,
+                    "hideFromStudent": false,
+                    "associativeProps": "{\"isDistanceLearning\":\"false\",\"mediaType\":\"Lesson\",\"titleInSequence\":\"Leveled readers Lesson\",\"contentType\":\"Sequence\"}",
+                    "playerTarget": "realize",
+                    "countsTowardMastery": false,
+                    "externalId": "TOCLR-00002000025",
+                    "programs": [
+                        "Realize Sample Program"
+                    ],
+                    "attachments": [],
+                    "customizedItem": null,
+                    "text": "",
+                    "tags": [],
+                    "pacing": "",
+                    "materials": [],
+                    "author": "",
+                    "isbn": "",
+                    "contribDate": "2014-04-04T03:06:49-0400",
+                    "contribSource": "Pearson",
+                    "teacherSupportProperties": null,
+                    "remediationProperties": null,
+                    "contentItems": null,
+                    "__typename": "ContentItem"
+                }
+            ],
+            "__typename": "ContentItem"
+        }
+    }
+}

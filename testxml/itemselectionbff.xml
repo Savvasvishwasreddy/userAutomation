@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="ItemSelectionBFF" preserve-order="true">
+<parameter name="deviceHost" value="localhost" />
+	<parameter name="devicePort" value="4444" />
+	<parameter name="browserName" value="chrome_windows" />
+	<parameter name="reportPortal" value="No" />
+	<parameter name="webSite" value="https://nightly-www.savvasrealizedev.com/community" />
+ <listeners>
+        <listener class-name="com.learningservices.utils.EmailReport" />
+		<listener class-name="com.learningservices.utils.LiveReportListener" />
+		<listener class-name="com.learningservices.utils.RetryListener" />
+		<listener class-name="com.epam.reportportal.testng.ReportPortalTestNGListener"/>
+</listeners>
+    <test verbose="2" name="ItemSelectionBFF">
+        <classes>
+        <class name="com.learningservices.itemselection.bff.testscripts.RegLTIASuite1"/>
+        <class name="com.learningservices.itemselection.bff.testscripts.RegLTIASuite135"/>  
+        <class name="com.learningservices.itemselection.bff.testscripts.RegLTIASuite5"/>
+	</classes>
+	</test>
+</suite>

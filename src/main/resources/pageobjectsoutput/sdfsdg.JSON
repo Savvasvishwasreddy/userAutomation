@@ -1,0 +1,13 @@
+{
+	"pageName": "sdfsdg",
+	"pageObjects": [
+		{
+			"elementName": "inpUsername",
+			"object": "id|username"
+		},
+		{
+			"elementName": "inpPassword",
+			"object": "id|password"
+		}
+	]
+}

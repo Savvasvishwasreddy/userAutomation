@@ -1,0 +1,31 @@
+#build spec for Student Interactives and Readers
+version: 0.2
+env:
+  secrets-manager:
+    Nexus_UserName: "nexus-credentials:nexusUserName"
+    Nexus_Password: "nexus-credentials:nexusPassword"
+phases:
+  install:
+    commands: 
+    runtime-versions:
+      java: corretto11
+  pre_build:
+    commands:
+      - echo Inside prebuild...
+  build:
+    commands:
+      - echo Build started on `date`
+      - chmod +x ./gradlew
+      - ./gradlew makePretty build doUITest -PnexusUsername=$Nexus_UserName -PnexusPassword=$Nexus_Password -PtestXMLFileName=$testXMLFileName -Dos_v_browser_v=windows_10_chrome_latest
+  post_build:
+    commands:
+      - echo Build completed on `date`
+      
+#artifacts:
+    #files: imagedefinitions.json
+artifacts:
+    files:
+      - ./build/reports/tests/doUITest/ScreenShot/*
+      - ./build/reports/tests/doUITest/TestAutomationResults.html
+      - ./build/reports/tests/doUITest/ExtentReport.html
+      - ./build/reports/tests/doUITest/RealTimeExecutionReport.html

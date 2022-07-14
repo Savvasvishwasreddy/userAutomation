@@ -1,0 +1,276 @@
+{
+    "data": {
+        "getContentById": {
+            "id": "575873c6-c96e-3f98-a141-16c6929b843f",
+            "title": "Leveled readers Lesson",
+            "mediaType": "Lesson",
+            "thumbnailUrls": [],
+            "essayPrompt": false,
+            "version": 2,
+            "root": false,
+            "skills": [
+                "G1\\G1_07\\G1_07_01",
+                "G0\\G0_07\\G0_07_03",
+                "G1\\G1_07\\G1_07_03"
+            ],
+            "text": "",
+            "materials": [],
+            "customizedItemDefaultView": false,
+            "customizedItem": null,
+            "originalItemId": null,
+            "hideFromStudent": false,
+            "associativeProps": null,
+            "programs": [
+                "Realize Sample Program"
+            ],
+            "contribSource": "Pearson",
+            "teacherOnly": "No",
+            "playerTarget": "realize",
+            "countsTowardMastery": false,
+            "attachments": [
+                {
+                    "file": null,
+                    "__typename": "Attachment"
+                },
+                {
+                    "file": null,
+                    "__typename": "Attachment"
+                },
+                {
+                    "file": null,
+                    "__typename": "Attachment"
+                }
+            ],
+            "remediationProperties": null,
+            "teacherSupportProperties": null,
+            "contentItems": [
+                {
+                    "id": "4f2e3b0e-5f2a-3ca5-a70e-38b3572bfaec",
+                    "title": "Leveled Reader 004 (PDF) Remediation",
+                    "essayPrompt": false,
+                    "mediaType": "Leveled Reader",
+                    "thumbnailUrls": [],
+                    "version": 2,
+                    "root": false,
+                    "teacherOnly": "No",
+                    "rubricAvailable": false,
+                    "fileType": "PDF",
+                    "skills": [
+                        "G1\\G1_07\\G1_07_01"
+                    ],
+                    "status": "PUBLISHED",
+                    "customizedItemDefaultView": false,
+                    "originalItemId": null,
+                    "hideFromStudent": false,
+                    "associativeProps": "{\"isDistanceLearning\":\"false\",\"mediaType\":\"Leveled Reader\",\"titleInSequence\":\"Leveled Reader 004 (PDF)\",\"contentType\":\"Informational Text\"}",
+                    "playerTarget": "realize",
+                    "countsTowardMastery": false,
+                    "externalId": "TOCLR-LeveledReader-004",
+                    "programs": [
+                        "Realize Sample Program"
+                    ],
+                    "attachments": [
+                        {
+                            "file": "a-9000000000-15pages.pdf",
+                            "__typename": "Attachment"
+                        },
+                        {
+                            "file": "PREVIEW_a-9000000000-15pages_0.png",
+                            "__typename": "Attachment"
+                        },
+                        {
+                            "file": "PREVIEW_a-9000000000-15pages_1.png",
+                            "__typename": "Attachment"
+                        },
+                        {
+                            "file": "PREVIEW_a-9000000000-15pages_10.png",
+                            "__typename": "Attachment"
+                        },
+                        {
+                            "file": "PREVIEW_a-9000000000-15pages_11.png",
+                            "__typename": "Attachment"
+                        },
+                        {
+                            "file": "PREVIEW_a-9000000000-15pages_12.png",
+                            "__typename": "Attachment"
+                        },
+                        {
+                            "file": "PREVIEW_a-9000000000-15pages_13.png",
+                            "__typename": "Attachment"
+                        },
+                        {
+                            "file": "PREVIEW_a-9000000000-15pages_14.png",
+                            "__typename": "Attachment"
+                        },
+                        {
+                            "file": "PREVIEW_a-9000000000-15pages_2.png",
+                            "__typename": "Attachment"
+                        },
+                        {
+                            "file": "PREVIEW_a-9000000000-15pages_3.png",
+                            "__typename": "Attachment"
+                        },
+                        {
+                            "file": "PREVIEW_a-9000000000-15pages_4.png",
+                            "__typename": "Attachment"
+                        },
+                        {
+                            "file": "PREVIEW_a-9000000000-15pages_5.png",
+                            "__typename": "Attachment"
+                        },
+                        {
+                            "file": "PREVIEW_a-9000000000-15pages_6.png",
+                            "__typename": "Attachment"
+                        },
+                        {
+                            "file": "PREVIEW_a-9000000000-15pages_7.png",
+                            "__typename": "Attachment"
+                        },
+                        {
+                            "file": "PREVIEW_a-9000000000-15pages_8.png",
+                            "__typename": "Attachment"
+                        },
+                        {
+                            "file": "PREVIEW_a-9000000000-15pages_9.png",
+                            "__typename": "Attachment"
+                        }
+                    ],
+                    "customizedItem": null,
+                    "text": "This is level reader&#39;s description - lexile:599; guidedReading:P; readingM:3; developR:28",
+                    "tags": [],
+                    "pacing": "",
+                    "materials": [],
+                    "author": "Marussia",
+                    "isbn": "459433004",
+                    "contribDate": "2014-04-04T03:06:18-0400",
+                    "contribSource": "Pearson",
+                    "teacherSupportProperties": null,
+                    "remediationProperties": null,
+                    "contentItems": null,
+                    "__typename": "ContentItem"
+                },
+                {
+                    "id": "d267d677-aebb-3744-8eb1-1a68f46d4870",
+                    "title": "Leveled Reader 005 (SCO) remediation",
+                    "essayPrompt": false,
+                    "mediaType": "Leveled Reader",
+                    "thumbnailUrls": [],
+                    "version": 2,
+                    "root": false,
+                    "teacherOnly": "No",
+                    "rubricAvailable": false,
+                    "fileType": "SCO",
+                    "skills": [
+                        "G1\\G1_07\\G1_07_03"
+                    ],
+                    "status": "PUBLISHED",
+                    "customizedItemDefaultView": false,
+                    "originalItemId": null,
+                    "hideFromStudent": false,
+                    "associativeProps": "{\"isDistanceLearning\":\"false\",\"mediaType\":\"Leveled Reader\",\"titleInSequence\":\"Leveled Reader 005 (SCO)\",\"contentType\":\"Lesson\"}",
+                    "playerTarget": "realize",
+                    "countsTowardMastery": false,
+                    "externalId": "TOCLR-LeveledReader-005",
+                    "programs": [
+                        "Realize Sample Program"
+                    ],
+                    "attachments": [
+                        {
+                            "file": "A0066987.zip",
+                            "__typename": "Attachment"
+                        }
+                    ],
+                    "customizedItem": null,
+                    "text": "This is level reader&#39;s description - lexile:1199; guidedReading:B; readingM:10; developR:2",
+                    "tags": [],
+                    "pacing": "",
+                    "materials": [],
+                    "author": "Marussia",
+                    "isbn": "459433005",
+                    "contribDate": "2014-04-04T03:06:24-0400",
+                    "contribSource": "Pearson",
+                    "teacherSupportProperties": null,
+                    "remediationProperties": null,
+                    "contentItems": null,
+                    "__typename": "ContentItem"
+                },
+                {
+                    "id": "f6583649-c88c-38e8-b6b4-b52a7a988be5",
+                    "title": "Leveled Reader 003 (NextText)",
+                    "essayPrompt": false,
+                    "mediaType": "Leveled Reader",
+                    "thumbnailUrls": [],
+                    "version": 2,
+                    "root": false,
+                    "teacherOnly": "No",
+                    "rubricAvailable": false,
+                    "fileType": "URL",
+                    "skills": [
+                        "G0\\G0_07\\G0_07_03"
+                    ],
+                    "status": "PUBLISHED",
+                    "customizedItemDefaultView": false,
+                    "originalItemId": null,
+                    "hideFromStudent": false,
+                    "associativeProps": "{\"isDistanceLearning\":\"false\",\"mediaType\":\"Leveled Reader\",\"titleInSequence\":\"Leveled Reader 003 (NextText)\",\"contentType\":\"Lesson\"}",
+                    "playerTarget": "realize",
+                    "countsTowardMastery": false,
+                    "externalId": "TOCLR-LeveledReader-003",
+                    "programs": [
+                        "Realize Sample Program"
+                    ],
+                    "attachments": [
+                        {
+                            "file": "https://nightly-viewer.etext1.pk12ls.com/ebook/linktoebook16.do?platform=1070&bookid=9843",
+                            "__typename": "Attachment"
+                        }
+                    ],
+                    "customizedItem": null,
+                    "text": "This is level reader&#39;s description - lexile:BR,1200; guidedReading:P,Z; readingM:5,16; developR:44",
+                    "tags": [
+                        "PDF",
+                        "Reader"
+                    ],
+                    "pacing": "cell membrane",
+                    "materials": [
+                        "TX Biology lab"
+                    ],
+                    "author": "Marussia",
+                    "isbn": "4-594-33003-003",
+                    "contribDate": "2014-04-04T03:06:41-0400",
+                    "contribSource": "Pearson",
+                    "teacherSupportProperties": {
+                        "itemUuid": "92408c07-07cc-30ba-848d-f911cff4cdc2",
+                        "associatedProperty": [
+                            {
+                                "name": "contentType",
+                                "value": "Sequence",
+                                "__typename": "AssociatedPropertyDTO"
+                            },
+                            {
+                                "name": "isDistanceLearning",
+                                "value": "false",
+                                "__typename": "AssociatedPropertyDTO"
+                            },
+                            {
+                                "name": "mediaType",
+                                "value": "Teacher Support",
+                                "__typename": "AssociatedPropertyDTO"
+                            },
+                            {
+                                "name": "titleInSequence",
+                                "value": "Teacher Support for Leveled Reader",
+                                "__typename": "AssociatedPropertyDTO"
+                            }
+                        ],
+                        "__typename": "AssociatedPropertiesDTO"
+                    },
+                    "remediationProperties": null,
+                    "contentItems": null,
+                    "__typename": "ContentItem"
+                }
+            ],
+            "__typename": "ContentItem"
+        }
+    }
+}

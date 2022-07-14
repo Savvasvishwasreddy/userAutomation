@@ -1,0 +1,30 @@
+{  
+   "aud":[  
+      "s6BhdRkqt3.lti-a.cert"
+   ],
+   "https://purl.imsglobal.org/spec/lti/claim/message_type":"LtiDeepLinkingResponse",
+   "https://purl.imsglobal.org/spec/lti/claim/deployment_id":"Deployment20200305001",
+   "https://purl.imsglobal.org/spec/lti/claim/version":"1.3.0",
+   "https://purl.imsglobal.org/spec/lti-dl/claim/content_items":[  
+ 	  {  
+         "thumbnail":{  
+            "width":90,
+            "url":"https://cert-www.realizedev.com/community/realizeit/skins/default/images/mediatype/icon/test@2x.png",
+            "height":90
+         },
+         "custom":{  
+			"productId":"2044737",
+            "contentId":"929f0589-c666-37c9-b886-c04bb907c303/2",
+            "contentViewerUrl":"https://cert-www.realizedev.com/community/browseAll/content/929f0589-c666-37c9-b886-c04bb907c303/2"
+         },
+         "type":"ltiResourceLink",
+         "title":"LTIA TestNav Manual and auto scoring Assessment ST",
+         "url":"https://ltitoolgateway-service.cert.realizedev-test.com/launch/content/929f0589-c666-37c9-b886-c04bb907c303/2?productId=2044737"
+      }
+   ],
+   "iss":"lti-ri.imsglobal.org.cert",
+   "exp":1584543941,
+   "nonce":"59ba4c5e-6800-4f01-8e2a-5ff71e07a9d5",
+   "iat":1584443941,
+   "https://purl.imsglobal.org/spec/lti-dl/claim/data":"Some random opaque data that MUST be sent back"
+}

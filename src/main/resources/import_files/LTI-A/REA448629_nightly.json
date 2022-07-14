@@ -1,0 +1,47 @@
+{  
+   "aud":[  
+      "lti-ri.imsglobal.org.marussia.nightly2"
+   ],
+   "https://purl.imsglobal.org/spec/lti/claim/message_type":"LtiDeepLinkingResponse",
+   "https://purl.imsglobal.org/spec/lti/claim/deployment_id":"101",
+   "https://purl.imsglobal.org/spec/lti/claim/version":"1.3.0",
+   "https://purl.imsglobal.org/spec/lti-dl/claim/content_items":[   
+	  {  
+         "thumbnail":{  
+            "width":90,
+            "url":"https://nightly-www.savvasrealizedev.com/community/realizeit/skins/default/images/mediatype/icon/document@2x.png",
+            "height":90
+         },
+         "custom":{  
+			"productId":"1234",
+            "contentId": "208cf09c-2aef-32fe-bd8e-4cced0518258/3",
+			"contentViewerUrl": "https://nightly-www.savvasrealizedev.com/community/browseAll/content/208cf09c-2aef-32fe-bd8e-4cced0518258/3"
+         },
+         "type":"ltiResourceLink",
+         "title": "LTIA Center 1 PDF ST",
+		 "text": "Pdf file",
+         "url":"https://ltitoolgateway-service.nightly.realizedev-test.com/launch/content/208cf09c-2aef-32fe-bd8e-4cced0518258/3",
+      },
+      {  
+         "thumbnail":{  
+            "width":90,
+            "url": "https://nightly-www.savvasrealizedev.com/community/realizeit/skins/default/images/mediatype/icon/image@2x.png",
+            "height":90
+         },
+         "custom":{  
+			"productId":"1234",
+            "contentId": "fe846212-4ca6-3f3b-8e4a-f78e28ca7043/4",
+			"contentViewerUrl": "https://nightly-www.savvasrealizedev.com/community/browseAll/content/fe846212-4ca6-3f3b-8e4a-f78e28ca7043/4"
+         },
+         "type":"ltiResourceLink",
+         "title": "LTIA JPG Image Koala ST",
+         "text": "JPG image",
+        "url": "https://ltitoolgateway-service.nightly.realizedev-test.com/launch/content/fe846212-4ca6-3f3b-8e4a-f78e28ca7043/4",
+      }
+   ],
+   "iss":"gw6Bhkgjsbgi.marussia.nightly2",
+   "exp":1563346766,
+   "nonce":"96264e90-2229-4170-9a30-56a29cb6da8e",
+   "iat":1563346466,
+   "https://purl.imsglobal.org/spec/lti-dl/claim/data":"Some random opaque data that MUST be sent back"
+}

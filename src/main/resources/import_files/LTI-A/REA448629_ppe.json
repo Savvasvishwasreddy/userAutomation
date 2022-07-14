@@ -1,0 +1,47 @@
+{
+	"aud": [
+		"lti-ri.imsglobal.org.ppe"
+	],
+	"https://purl.imsglobal.org/spec/lti/claim/message_type": "LtiDeepLinkingResponse",
+	"https://purl.imsglobal.org/spec/lti/claim/deployment_id": "PPE20190618001",
+	"https://purl.imsglobal.org/spec/lti/claim/version": "1.3.0",
+	"https://purl.imsglobal.org/spec/lti-dl/claim/content_items": [
+		{
+			"thumbnail": {
+				"width": 90,
+				"height": 90,
+				"url": "https://ppe-www.realizedev.com/community/realizeit/skins/default/images/mediatype/icon/document@2x.png"
+			},
+			"custom": {
+				"productId": "814879",
+				"contentId": "208cf09c-2aef-32fe-bd8e-4cced0518258/1",
+				"contentViewerUrl": "https://ppe-www.realizedev.com/community/browseAll/content/208cf09c-2aef-32fe-bd8e-4cced0518258/1"
+			},
+			"type": "ltiResourceLink",
+			"title": "LTIA Center 1 PDF ST",
+			"text": "Pdf file",
+			"url": "https://ltitoolgateway-service-ppe.realizedev.com/launch/content/208cf09c-2aef-32fe-bd8e-4cced0518258/1"
+		},
+		{
+			"thumbnail": {
+				"width": 90,
+				"height": 90,
+				"url": "https://ppe-www.realizedev.com/community/realizeit/skins/default/images/mediatype/icon/image@2x.png"
+			},
+			"custom": {
+				"productId": "814879",
+				"contentId": "fe846212-4ca6-3f3b-8e4a-f78e28ca7043/1",
+				"contentViewerUrl": "https://ppe-www.realizedev.com/community/browseAll/content/fe846212-4ca6-3f3b-8e4a-f78e28ca7043/1"
+			},
+			"type": "ltiResourceLink",
+			"title": "LTIA JPG Image Koala ST",
+			"text": "JPG image",
+			"url": "https://ltitoolgateway-service-ppe.realizedev.com/launch/content/fe846212-4ca6-3f3b-8e4a-f78e28ca7043/1"
+		}
+	],
+	"iss": "s6BhdRkqt3.ppe",
+	"exp": 1563346766,
+	"nonce": "96264e90-2229-4170-9a30-56a29cb6da8e",
+	"iat": 1563346466,
+	"https://purl.imsglobal.org/spec/lti-dl/claim/data": "Some random opaque data that MUST be sent back"
+}

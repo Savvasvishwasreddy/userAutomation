@@ -1,0 +1,133 @@
+{
+    "data": {
+        "getContentById": {
+            "id": "654321",
+            "title": "Test TOC Import",
+            "mediaType": "Tier",
+            "thumbnailUrls": [],
+            "essayPrompt": false,
+            "version": 3,
+            "root": true,
+            "skills": [],
+            "text": "test",
+            "materials": [],
+            "customizedItemDefaultView": false,
+            "customizedItem": null,
+            "originalItemId": null,
+            "hideFromStudent": false,
+            "associativeProps": null,
+            "programs": [
+                "Realize Sample Program"
+            ],
+            "contribSource": "Pearson",
+            "teacherOnly": "No",
+            "playerTarget": "realize",
+            "countsTowardMastery": false,
+            "attachments": [
+                {
+                    "file": null,
+                    "__typename": "Attachment"
+                },
+                {
+                    "file": null,
+                    "__typename": "Attachment"
+                }
+            ],
+            "remediationProperties": null,
+            "teacherSupportProperties": null,
+            "contentItems": [
+                {
+                    "id": "123451",
+                    "title": "Content 001",
+                    "essayPrompt": false,
+                    "mediaType": "Realize Reader Selection",
+                    "thumbnailUrls": [],
+                    "version": 3,
+                    "root": false,
+                    "teacherOnly": "No",
+                    "rubricAvailable": false,
+                    "fileType": "URL",
+                    "skills": [],
+                    "status": "PUBLISHED",
+                    "customizedItemDefaultView": false,
+                    "originalItemId": null,
+                    "hideFromStudent": false,
+                    "associativeProps": "{\"displayOrder\":\"2\",\"mediaType\":\"Realize Reader Selection\",\"titleInSequence\":\"Content 001\",\"contentType\":\"Lesson\"}",
+                    "playerTarget": "realize",
+                    "countsTowardMastery": false,
+                    "externalId": "June10_DomainChanges_002",
+                    "programs": [
+                        "Realize Sample Program"
+                    ],
+                    "attachments": [
+                        {
+                            "file": "@realize_webapp.realizeReader.page.host.url@/launch.html#/book/7OH7QKZ4DWZ/page/4",
+                            "__typename": "Attachment"
+                        }
+                    ],
+                    "customizedItem": null,
+                    "text": "Content 001",
+                    "tags": [
+                        "Content 001"
+                    ],
+                    "pacing": "",
+                    "materials": [],
+                    "author": "",
+                    "isbn": "",
+                    "contribDate": "2020-06-10T11:33:04+0000",
+                    "contribSource": "Pearson",
+                    "teacherSupportProperties": null,
+                    "remediationProperties": null,
+                    "contentItems": null,
+                    "__typename": "ContentItem"
+                },
+				{
+                    "id": "123452",
+                    "title": "Content 002",
+                    "essayPrompt": false,
+                    "mediaType": "Realize Reader Selection",
+                    "thumbnailUrls": [],
+                    "version": 3,
+                    "root": false,
+                    "teacherOnly": "No",
+                    "rubricAvailable": false,
+                    "fileType": "URL",
+                    "skills": [],
+                    "status": "PUBLISHED",
+                    "customizedItemDefaultView": false,
+                    "originalItemId": null,
+                    "hideFromStudent": false,
+                    "associativeProps": "{\"displayOrder\":\"2\",\"mediaType\":\"Realize Reader Selection\",\"titleInSequence\":\"Content 002\",\"contentType\":\"Lesson\"}",
+                    "playerTarget": "realize",
+                    "countsTowardMastery": false,
+                    "externalId": "June10_DomainChanges_002",
+                    "programs": [
+                        "Realize Sample Program"
+                    ],
+                    "attachments": [
+                        {
+                            "file": "@realize_webapp.realizeReader.page.host.url@/launch.html#/book/7OH7QKZ4DWZ/page/4",
+                            "__typename": "Attachment"
+                        }
+                    ],
+                    "customizedItem": null,
+                    "text": "Content 002",
+                    "tags": [
+                        "Content 002"
+                    ],
+                    "pacing": "",
+                    "materials": [],
+                    "author": "",
+                    "isbn": "",
+                    "contribDate": "2020-06-10T11:33:04+0000",
+                    "contribSource": "Pearson",
+                    "teacherSupportProperties": null,
+                    "remediationProperties": null,
+                    "contentItems": null,
+                    "__typename": "ContentItem"
+                }
+            ],
+            "__typename": "ContentItem"
+        }
+    }
+}

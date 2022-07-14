@@ -1,0 +1,30 @@
+{  
+   "aud":[  
+      "lti-ri.imsglobal.org.ppe"
+   ],
+   "https://purl.imsglobal.org/spec/lti/claim/message_type":"LtiDeepLinkingResponse",
+   "https://purl.imsglobal.org/spec/lti/claim/deployment_id":"PPE20190618001",
+   "https://purl.imsglobal.org/spec/lti/claim/version":"1.3.0",
+   "https://purl.imsglobal.org/spec/lti-dl/claim/content_items":[  
+      {  
+         "thumbnail":{  
+            "width":90,
+            "url":"https://ppe-www.realizedev.com/community/realizeit/skins/default/images/mediatype/icon/test@2x.png",
+            "height":90
+         },
+         "custom":{  
+			"productId": "8888",
+            "contentId":"bc0591b2-f6ff-39a4-bcd6-9ac61cf91a19/1",
+            "contentViewerUrl":"https://ppe-www.realizedev.com/community/browseAll/content/bc0591b2-f6ff-39a4-bcd6-9ac61cf91a19/1"
+         },
+         "type":"ltiResourceLink",
+         "title":"LTIA Native Test Assessment MC ST",
+         "url":"https://ltitoolgateway-service-ppe.realizedev.com/launch/content/bc0591b2-f6ff-39a4-bcd6-9ac61cf91a19/1"
+      }
+   ],
+   "iss":"s6BhdRkqt3.ppe",
+   "exp":1563346766,
+   "nonce":"96264e90-2229-4170-9a30-56a29cb6da8e",
+   "iat":1563346466,
+   "https://purl.imsglobal.org/spec/lti-dl/claim/data":"Some random opaque data that MUST be sent back"
+}

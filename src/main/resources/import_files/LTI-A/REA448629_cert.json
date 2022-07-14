@@ -1,0 +1,47 @@
+{  
+   "aud":[  
+      "s6BhdRkqt3.marussia.cert"
+   ],
+   "https://purl.imsglobal.org/spec/lti/claim/message_type":"LtiDeepLinkingResponse",
+   "https://purl.imsglobal.org/spec/lti/claim/deployment_id":"101",
+   "https://purl.imsglobal.org/spec/lti/claim/version":"1.3.0",
+   "https://purl.imsglobal.org/spec/lti-dl/claim/content_items":[   
+	  {  
+         "thumbnail":{  
+            "width":90,
+            "url":"https://cert-www.realizedev.com/community/realizeit/skins/default/images/mediatype/icon/test@2x.png",
+            "height":90
+         },
+         "custom":{  
+			"productId":"833886",
+            "contentId": "ef2c6433-2632-3709-bd6f-3ccb5caca3d6/3",
+			"contentViewerUrl": "https://cert-www.realizedev.com/community/browseAll/content/ef2c6433-2632-3709-bd6f-3ccb5caca3d6/3"
+         },
+         "type":"ltiResourceLink",
+         "title": "Unit A: The Number System: Test",
+		 "text": "Mathxl test",
+         "url":"https://ltitoolgateway-service.cert.realizedev-test.com/launch/content/ef2c6433-2632-3709-bd6f-3ccb5caca3d6/3?productId=833886",
+      },
+      {  
+         "thumbnail":{  
+            "width":90,
+            "url": "https://cert-www.realizedev.com/community/realizeit/skins/default/images/mediatype/icon/image@2x.png",
+            "height":90
+         },
+         "custom":{  
+			"productId":"2044737",
+            "contentId": "fe846212-4ca6-3f3b-8e4a-f78e28ca7043/2",
+			"contentViewerUrl": "https://cert-www.realizedev.com/community/browseAll/content/fe846212-4ca6-3f3b-8e4a-f78e28ca7043/2"
+         },
+         "type":"ltiResourceLink",
+         "title": "LTIA JPG Image Koala ST",
+         "text": "JPG image",
+        "url": "https://ltitoolgateway-service.cert.realizedev-test.com/launch/content/fe846212-4ca6-3f3b-8e4a-f78e28ca7043/2?productId=2044737",
+      }
+   ],
+   "iss":"lti-ri.imsglobal.org.marussia.cert",
+   "exp":1584443594,
+   "nonce":"e95f603c-7052-4e26-b2be-24fcd69dc7f2",
+   "iat":1584543594,
+   "https://purl.imsglobal.org/spec/lti-dl/claim/data":"Some random opaque data that MUST be sent back"
+}

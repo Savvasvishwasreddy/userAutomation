@@ -1,0 +1,1077 @@
+{
+    "data": {
+        "getSearchResult": {
+            "totalAvailable": 1,
+            "contents": [
+                {
+                    "contentId": "123456",
+                    "contentVersion": 1,
+                    "title": "Long content abcdefghijklmnopqrstuvwxyz 12345678910111213141516171819202122232425262728293031323334353637383940",
+                    "programNames": [
+                        "Elevate Science Grade 3"
+                    ],
+                    "mediaType": "Link",
+                    "contentInfo": {
+                        "description": "",
+                        "materials": [],
+                        "keywords": [],
+                        "pacing": "",
+                        "author": "",
+                        "genres": [],
+                        "textFeatures": null,
+                        "contentAreas": null,
+                        "comprehensionSkills": null,
+                        "isbn": "",
+                        "notebookEntries": null,
+                        "activities": [],
+                        "__typename": "ContentInfo"
+                    },
+                    "__typename": "Content"
+                }
+            ],
+            "facets": [
+                {
+                    "displayName": "Media Type",
+                    "fieldName": "MEDIA_TYPE",
+                    "values": [
+                        {
+                            "value": "Multimedia Content",
+                            "count": 37,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Link",
+                            "count": 3564,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Google Doc",
+                            "count": 139,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "TEST",
+                            "count": 16,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Diagnostic Assessment",
+                            "count": 66,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Realize Reader Selection",
+                            "count": 4522,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Interactive Media",
+                            "count": 25283,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Document",
+                            "count": 53788,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Video",
+                            "count": 1543,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Desmos",
+                            "count": 2,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "eText",
+                            "count": 81,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Test",
+                            "count": 20588,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "PDF",
+                            "count": 4,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "kiran",
+                            "count": 1,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Learning Resource",
+                            "count": 24,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Selected Reading ",
+                            "count": 1,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Selected Reading",
+                            "count": 6283,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Leveled Reader",
+                            "count": 466,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Partner Link",
+                            "count": 129,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Image",
+                            "count": 6511,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Floating SCO",
+                            "count": 1,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Audio",
+                            "count": 766,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Score Table",
+                            "count": 3,
+                            "__typename": "FacetCollection"
+                        }
+                    ],
+                    "__typename": "SearchFacets"
+                },
+                {
+                    "displayName": "Content Category",
+                    "fieldName": "CONTENT_TYPE",
+                    "values": [
+                        {
+                            "value": "Assessment",
+                            "count": 24003,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Informational Text",
+                            "count": 895,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Reference Material ",
+                            "count": 2,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Map",
+                            "count": 4,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "SCO",
+                            "count": 1,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Various Media",
+                            "count": 2471,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "assessard5ment",
+                            "count": 1,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Multistage",
+                            "count": 41,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Lesson",
+                            "count": 13159,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Scientific",
+                            "count": 1,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Multimedia Content",
+                            "count": 30,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "RRS",
+                            "count": 57,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Visual Learning",
+                            "count": 1164,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Instructional",
+                            "count": 1,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "literature",
+                            "count": 6,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Teacher Support",
+                            "count": 2,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "informational text",
+                            "count": 34,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "MULTISTAGE",
+                            "count": 1,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "MultiStage",
+                            "count": 20,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Song",
+                            "count": 1746,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Teacher Resources",
+                            "count": 29436,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Mastery with zip Yes and csv NO",
+                            "count": 1,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "assessard3ment",
+                            "count": 1,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Informational text",
+                            "count": 11,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "PDF",
+                            "count": 21,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Reference Material",
+                            "count": 3992,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Lab",
+                            "count": 834,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Presentation",
+                            "count": 830,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Graphing",
+                            "count": 1,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "PPT",
+                            "count": 26,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Document",
+                            "count": 10,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "multistage",
+                            "count": 1,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "DOC",
+                            "count": 28,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Selected Reading",
+                            "count": 85,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "MulTiStaGe",
+                            "count": 1,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Activity/Exercise",
+                            "count": 44901,
+                            "__typename": "FacetCollection"
+                        }
+                    ],
+                    "__typename": "SearchFacets"
+                },
+                {
+                    "displayName": "Source",
+                    "fieldName": "SOURCE",
+                    "values": [
+                        {
+                            "value": "NBC Learn",
+                            "count": 144,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Mathxl",
+                            "count": 5429,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "My Uploads",
+                            "count": 298,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Pearson ",
+                            "count": 2,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Contrib Source",
+                            "count": 1,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "testnav",
+                            "count": 1,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Google",
+                            "count": 70,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "MathXL",
+                            "count": 25,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "etext 3",
+                            "count": 1,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "etext 1",
+                            "count": 1,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Pearson",
+                            "count": 100042,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "AJ",
+                            "count": 10,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "LSTDEV-2647",
+                            "count": 2,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "From Science Grade 8",
+                            "count": 1,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "savvas",
+                            "count": 16,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Savvas",
+                            "count": 17773,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Akshay Jain",
+                            "count": 2,
+                            "__typename": "FacetCollection"
+                        }
+                    ],
+                    "__typename": "SearchFacets"
+                },
+                {
+                    "displayName": "Grade",
+                    "fieldName": "GRADE",
+                    "values": [
+                        {
+                            "value": "6",
+                            "count": 1994,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "PK",
+                            "count": 711,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "9",
+                            "count": 4235,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "12",
+                            "count": 1475,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "8",
+                            "count": 4527,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "5",
+                            "count": 11955,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "10",
+                            "count": 5641,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "K",
+                            "count": 31102,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "11",
+                            "count": 2861,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "7",
+                            "count": 2776,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "4",
+                            "count": 40380,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "3",
+                            "count": 11585,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "2",
+                            "count": 7335,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "1",
+                            "count": 11754,
+                            "__typename": "FacetCollection"
+                        }
+                    ],
+                    "__typename": "SearchFacets"
+                },
+                {
+                    "displayName": "Library",
+                    "fieldName": "CUSTOM_FACET_LIBRARY",
+                    "values": [
+                        {
+                            "value": "Core/ Text",
+                            "count": 1,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Enhanced/ Text",
+                            "count": 1,
+                            "__typename": "FacetCollection"
+                        }
+                    ],
+                    "__typename": "SearchFacets"
+                },
+                {
+                    "displayName": "Theme",
+                    "fieldName": "CUSTOM_FACET_THEMES",
+                    "values": [
+                        {
+                            "value": "Author Study",
+                            "count": 12,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Core Unit Themes",
+                            "count": 7,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Alternate Unit Themes",
+                            "count": 7,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Genre Study",
+                            "count": 6,
+                            "__typename": "FacetCollection"
+                        }
+                    ],
+                    "__typename": "SearchFacets"
+                },
+                {
+                    "displayName": "Skills Teaching Opportunities",
+                    "fieldName": "CUSTOM_FACET_SKILLS_TEACHING_OPPORTUNITIES",
+                    "values": [
+                        {
+                            "value": "Literary Elements",
+                            "count": 7,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Comprehension / Reading Skills",
+                            "count": 4,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Speaking and Listening",
+                            "count": 7,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Vocabulary / Word Study",
+                            "count": 4,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Composition / Writing",
+                            "count": 7,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Conventions / Grammar",
+                            "count": 4,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Author's Craft",
+                            "count": 4,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Research",
+                            "count": 4,
+                            "__typename": "FacetCollection"
+                        }
+                    ],
+                    "__typename": "SearchFacets"
+                },
+                {
+                    "displayName": "Cross Curricular Connections",
+                    "fieldName": "CUSTOM_FACET_CROSS_CURRICULAR_CONNECTIONS",
+                    "values": [
+                        {
+                            "value": "Math and Science",
+                            "count": 4,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Current Events",
+                            "count": 10,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "History and Government",
+                            "count": 7,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "STEM",
+                            "count": 7,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Art and Music",
+                            "count": 7,
+                            "__typename": "FacetCollection"
+                        }
+                    ],
+                    "__typename": "SearchFacets"
+                },
+                {
+                    "displayName": "Language",
+                    "fieldName": "LANGUAGE",
+                    "values": [
+                        {
+                            "value": "Spanish",
+                            "count": 19163,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "English",
+                            "count": 104655,
+                            "__typename": "FacetCollection"
+                        }
+                    ],
+                    "__typename": "SearchFacets"
+                },
+                {
+                    "displayName": "Comprehension Skills",
+                    "fieldName": "COMPREHENSION_SKILLS",
+                    "values": [
+                        {
+                            "value": "Author's Purpose",
+                            "count": 283,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Categorize/Classify",
+                            "count": 9,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Cause/Effect",
+                            "count": 1,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "CS2",
+                            "count": 3,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "CS1",
+                            "count": 3,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Details and Facts",
+                            "count": 10,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Sequence/Put Things in Order",
+                            "count": 5,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "CS3",
+                            "count": 3,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Comprehension Skills",
+                            "count": 1,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Make Inferences",
+                            "count": 1,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Alike and Different",
+                            "count": 277,
+                            "__typename": "FacetCollection"
+                        }
+                    ],
+                    "__typename": "SearchFacets"
+                },
+                {
+                    "displayName": "Text Features",
+                    "fieldName": "TEXT_FEATURES",
+                    "values": [
+                        {
+                            "value": "Cas",
+                            "count": 12,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "TF2",
+                            "count": 3,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "TF1",
+                            "count": 3,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Title",
+                            "count": 252,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "TF3",
+                            "count": 3,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Heading/Subheading",
+                            "count": 5,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Chart/Table/Graph",
+                            "count": 33,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Artifact",
+                            "count": 1,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Graphic/Symbol",
+                            "count": 13,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Text Features",
+                            "count": 1,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Schedule",
+                            "count": 1,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Photographs",
+                            "count": 253,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Footnote",
+                            "count": 28,
+                            "__typename": "FacetCollection"
+                        }
+                    ],
+                    "__typename": "SearchFacets"
+                },
+                {
+                    "displayName": "Genres",
+                    "fieldName": "GENRES",
+                    "values": [
+                        {
+                            "value": "Animal Fantasy",
+                            "count": 14,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Genre 2",
+                            "count": 2,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Genre 1",
+                            "count": 2,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Diary/Journal",
+                            "count": 37,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Sertanejo",
+                            "count": 1,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Forró",
+                            "count": 1,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Drama/Play",
+                            "count": 3,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Suspense",
+                            "count": 1,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Narrative Nonfiction",
+                            "count": 10,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Sub Top Level Genres",
+                            "count": 4,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Article",
+                            "count": 6,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "How-To",
+                            "count": 38,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Humorous Fiction",
+                            "count": 3,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Axé",
+                            "count": 1,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Nonfiction",
+                            "count": 259,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Fantasy",
+                            "count": 3,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Realistic Fiction",
+                            "count": 11,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Writing",
+                            "count": 1,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Cassie",
+                            "count": 65,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Poetry and Song",
+                            "count": 3,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "last Level Genres",
+                            "count": 2,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Autobiography/Biography",
+                            "count": 7,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Drama",
+                            "count": 1,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Expository Nonfiction",
+                            "count": 1,
+                            "__typename": "FacetCollection"
+                        }
+                    ],
+                    "__typename": "SearchFacets"
+                },
+                {
+                    "displayName": "Content Areas",
+                    "fieldName": "CONTENT_AREAS",
+                    "values": [
+                        {
+                            "value": "Content areas – Math",
+                            "count": 2,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Mathematics",
+                            "count": 2,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Content Areas",
+                            "count": 1,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Literature",
+                            "count": 19,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Art",
+                            "count": 35,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Science",
+                            "count": 33,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Social Studies",
+                            "count": 265,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Cassie",
+                            "count": 65,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Music",
+                            "count": 4,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Health",
+                            "count": 10,
+                            "__typename": "FacetCollection"
+                        }
+                    ],
+                    "__typename": "SearchFacets"
+                },
+                {
+                    "displayName": "Featured Resources",
+                    "fieldName": "FEATURED_RESOURCES",
+                    "values": [
+                        {
+                            "value": "Speaking and Listening",
+                            "count": 9,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Conventions",
+                            "count": 5,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Exit Ticket",
+                            "count": 12,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Assessments",
+                            "count": 3,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "New Content",
+                            "count": 553,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Writing and Resources",
+                            "count": 25,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Digital Library",
+                            "count": 556,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Spanish Resources",
+                            "count": 12,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Reteach and Practice (RP)(ER)",
+                            "count": 1,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Reteach and Practice (RP)",
+                            "count": 14,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Accessible Leveled Text",
+                            "count": 6,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Featured",
+                            "count": 3,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Category A",
+                            "count": 1,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "Standards Practice",
+                            "count": 11,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": " Digital Library",
+                            "count": 2,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "New Content ",
+                            "count": 2,
+                            "__typename": "FacetCollection"
+                        }
+                    ],
+                    "__typename": "SearchFacets"
+                },
+                {
+                    "displayName": "Rubric",
+                    "fieldName": "RUBRIC",
+                    "values": [
+                        {
+                            "value": "false",
+                            "count": 57472,
+                            "__typename": "FacetCollection"
+                        },
+                        {
+                            "value": "true",
+                            "count": 412,
+                            "__typename": "FacetCollection"
+                        }
+                    ],
+                    "__typename": "SearchFacets"
+                }
+            ],
+            "__typename": "SearchResult"
+        }
+    }
+}

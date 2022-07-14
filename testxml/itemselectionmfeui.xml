@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="ItemSelectionSuiteMFE" verbose="3" parallel="methods"
+	thread-count="3">
+	<parameter name="deviceHost" value="localhost" />
+	<parameter name="devicePort" value="5559" />
+	<parameter name="browserName" value="chrome_windows" />
+	<parameter name="webSite"
+		value="https://stage-ltia-item-selection-webapp.savvasrealizedev.com/" />
+	<parameter name="reportPortal" value="No" />
+	<listeners>
+		<listener class-name="com.learningservices.utils.EmailReport" />
+		<listener
+			class-name="com.learningservices.utils.LiveReportListener" />
+		<!-- <listener
+			class-name="com.learningservices.utils.RealTimeExecutionListener" /> -->
+		<listener
+			class-name="com.learningservices.utils.RetryListener" />
+		<!--<listener class-name="com.epam.reportportal.testng.ReportPortalTestNGListener"/> -->
+	</listeners>
+	<test name="ItemSelectionSuiteMFEUI_MOCKED">
+		<classes>
+			<class
+				name="com.learningservices.itemselection.mfe.testscripts.AddContentsSuite">
+				<methods>
+					<exclude name="TC_RLZ34459" />
+					<exclude name="TC_RLZ34460" />
+					<exclude name="TC_RLZ34462" />
+				</methods>
+			</class>
+			<class
+				name="com.learningservices.itemselection.mfe.testscripts.ImportCartSuite">
+				<methods>
+					<exclude name="TC_RLZ34423" />
+					<exclude name="TC_RLZ34671" />
+				</methods>
+			</class>
+			<class
+				name="com.learningservices.itemselection.mfe.testscripts.TopNavSuite"></class>
+		</classes>
+	</test>
+	<test name="ItemSelectionSuiteMFEUICases">
+		<classes>
+			<class
+				name="com.learningservices.itemselection.mfe.testscripts.AddContentsSuite">
+				<methods>
+					<include name="TC_RLZ34459" />
+					<include name="TC_RLZ34460" />
+					<include name="TC_RLZ34462" />
+				</methods>
+			</class>
+			<class
+				name="com.learningservices.itemselection.mfe.testscripts.ImportCartSuite">
+				<methods>
+					<include name="TC_RLZ34423" />
+					<include name="TC_RLZ34671" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+</suite>

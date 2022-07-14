@@ -1,0 +1,217 @@
+{
+  "data": {
+    "getContentById": {
+      "id": "3f5d697e-6679-321c-bafe-c35c81c56606",
+      "title": "04_06_2020_T_03_20",
+      "mediaType": "Tier",
+      "thumbnailUrls": [],
+      "essayPrompt": false,
+      "version": 1,
+      "root": true,
+      "skills": [],
+      "text": "test",
+      "materials": [],
+      "customizedItemDefaultView": false,
+      "customizedItem": null,
+      "originalItemId": null,
+      "hideFromStudent": false,
+      "associativeProps": null,
+      "programs": [
+        "Realize Sample Program"
+      ],
+      "contribSource": "Pearson",
+      "teacherOnly": "No",
+      "playerTarget": "realize",
+      "countsTowardMastery": false,
+      "attachments": [
+        {
+          "file": null,
+          "__typename": "Attachment"
+        },
+        {
+          "file": null,
+          "__typename": "Attachment"
+        },
+        {
+          "file": null,
+          "__typename": "Attachment"
+        }
+      ],
+      "remediationProperties": null,
+      "teacherSupportProperties": null,
+      "contentItems": [
+        {
+          "id": "7aaa5267-d4fd-30ab-a15c-e510eb872f09",
+          "title": "Content_3",
+          "essayPrompt": false,
+          "mediaType": "Test",
+          "thumbnailUrls": [],
+          "version": 1,
+          "root": false,
+          "teacherOnly": "No",
+          "rubricAvailable": true,
+          "fileType": "TEST",
+          "skills": [
+            "CasSkills3349_MULST_MSC\\CasSkills3349_MULST_MSC_AT\\CasSkills3349_MULST_MSC_AT_002",
+            "CasSkills3349_MULST_MSC\\CasSkills3349_MULST_MSC_AT\\CasSkills3349_MULST_MSC_AT_001",
+            "CasSkills3349_MULST_MSC\\CasSkills3349_MULST_MSC_AT\\CasSkills3349_MULST_MSC_AT_005",
+            "CasSkills3349_MULST_MSC\\CasSkills3349_MULST_MSC_AT\\CasSkills3349_MULST_MSC_AT_004",
+            "CasSkills3349_MULST_MSC\\CasSkills3349_MULST_MSC_AT\\CasSkills3349_MULST_MSC_AT_003"
+          ],
+          "status": "PUBLISHED",
+          "customizedItemDefaultView": false,
+          "originalItemId": null,
+          "hideFromStudent": false,
+          "associativeProps": "{\"displayOrder\":\"200\",\"mediaType\":\"Test\",\"titleInSequence\":\"content_3\",\"contentType\":\"Assessment\"}",
+          "playerTarget": "testnav",
+          "countsTowardMastery": true,
+          "externalId": "04_06_2020_T_03_02",
+          "programs": [
+            "Realize Sample Program"
+          ],
+          "attachments": [
+            {
+              "file": "mV20_TX_GK_U2_W4_Progress_Check_Up_New_Rubric.zip",
+              "__typename": "Attachment"
+            },
+            {
+              "file": null,
+              "__typename": "Attachment"
+            }
+          ],
+          "customizedItem": null,
+          "text": "content_3",
+          "tags": [
+            "a",
+            "Cas",
+            "Keyword",
+            "keyword",
+            "an",
+            "Testnav"
+          ],
+          "pacing": "",
+          "materials": [],
+          "author": "",
+          "isbn": "",
+          "contribDate": "2020-06-04T10:00:29+0000",
+          "contribSource": "Pearson",
+          "teacherSupportProperties": null,
+          "remediationProperties": null,
+          "contentItems": null,
+          "__typename": "ContentItem"
+        },
+        {
+          "id": "bad83e46-a450-36c6-b6e5-95fa4180a7ea",
+          "title": "Content_4",
+          "essayPrompt": false,
+          "mediaType": "Test",
+          "thumbnailUrls": [],
+          "version": 1,
+          "root": false,
+          "teacherOnly": "No",
+          "rubricAvailable": false,
+          "fileType": "TEST",
+          "skills": [
+            "CasSkills3349_MULST_MSC\\CasSkills3349_MULST_MSC_AT\\CasSkills3349_MULST_MSC_AT_002",
+            "CasSkills3349_MULST_MSC\\CasSkills3349_MULST_MSC_AT\\CasSkills3349_MULST_MSC_AT_001",
+            "CasSkills3349_MULST_MSC\\CasSkills3349_MULST_MSC_AT\\CasSkills3349_MULST_MSC_AT_005",
+            "CasSkills3349_MULST_MSC\\CasSkills3349_MULST_MSC_AT\\CasSkills3349_MULST_MSC_AT_004",
+            "CasSkills3349_MULST_MSC\\CasSkills3349_MULST_MSC_AT\\CasSkills3349_MULST_MSC_AT_003"
+          ],
+          "status": "PUBLISHED",
+          "customizedItemDefaultView": false,
+          "originalItemId": null,
+          "hideFromStudent": false,
+          "associativeProps": "{\"displayOrder\":\"201\",\"mediaType\":\"Test\",\"titleInSequence\":\"Content_4\",\"contentType\":\"Assessment\"}",
+          "playerTarget": "testnav",
+          "countsTowardMastery": true,
+          "externalId": "04_06_2020_T_03_03",
+          "programs": [],
+          "attachments": [
+            {
+              "file": "testnav_Benchmark_Test_1.zip",
+              "__typename": "Attachment"
+            }
+          ],
+          "customizedItem": null,
+          "text": "Content_4",
+          "tags": [
+            "Native",
+            "a",
+            "Cas",
+            "Keyword",
+            "keyword",
+            "an"
+          ],
+          "pacing": "",
+          "materials": [],
+          "author": "",
+          "isbn": "",
+          "contribDate": "2020-06-04T10:00:31+0000",
+          "contribSource": "Pearson",
+          "teacherSupportProperties": null,
+          "remediationProperties": null,
+          "contentItems": null,
+          "__typename": "ContentItem"
+        },
+        {
+          "id": "74acf963-58b7-3679-8508-a8eea51d6020",
+          "title": "Content_5",
+          "essayPrompt": false,
+          "mediaType": "Test",
+          "thumbnailUrls": [],
+          "version": 1,
+          "root": false,
+          "teacherOnly": "No",
+          "rubricAvailable": false,
+          "fileType": "TEST",
+          "skills": [
+            "CasSkills3349_MULST_MSC\\CasSkills3349_MULST_MSC_AT\\CasSkills3349_MULST_MSC_AT_002",
+            "CasSkills3349_MULST_MSC\\CasSkills3349_MULST_MSC_AT\\CasSkills3349_MULST_MSC_AT_001",
+            "CasSkills3349_MULST_MSC\\CasSkills3349_MULST_MSC_AT\\CasSkills3349_MULST_MSC_AT_005",
+            "CasSkills3349_MULST_MSC\\CasSkills3349_MULST_MSC_AT\\CasSkills3349_MULST_MSC_AT_004",
+            "CasSkills3349_MULST_MSC\\CasSkills3349_MULST_MSC_AT\\CasSkills3349_MULST_MSC_AT_003"
+          ],
+          "status": "PUBLISHED",
+          "customizedItemDefaultView": false,
+          "originalItemId": null,
+          "hideFromStudent": false,
+          "associativeProps": "{\"displayOrder\":\"202\",\"mediaType\":\"Test\",\"titleInSequence\":\"Content_4\",\"contentType\":\"Assessment\"}",
+          "playerTarget": "mathxl",
+          "countsTowardMastery": true,
+          "externalId": "04_06_2020_T_03_04",
+          "programs": [
+            "Realize Sample Program"
+          ],
+          "attachments": [
+            {
+              "file": "mathxl 5-question-test_G0Skills.zip",
+              "__typename": "Attachment"
+            }
+          ],
+          "customizedItem": null,
+          "text": "Content_4",
+          "tags": [
+            "Native",
+            "a",
+            "Cas",
+            "Keyword",
+            "keyword",
+            "an"
+          ],
+          "pacing": "",
+          "materials": [],
+          "author": "",
+          "isbn": "",
+          "contribDate": "2020-06-04T10:00:27+0000",
+          "contribSource": "Mathxl",
+          "teacherSupportProperties": null,
+          "remediationProperties": null,
+          "contentItems": null,
+          "__typename": "ContentItem"
+        }
+      ],
+      "__typename": "ContentItem"
+    }
+  }
+}
