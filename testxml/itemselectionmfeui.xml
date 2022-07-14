@@ -24,37 +24,7 @@
 			<class
 				name="com.learningservices.itemselection.mfe.testscripts.AddContentsSuite">
 				<methods>
-					<exclude name="TC_RLZ34459" />
-					<exclude name="TC_RLZ34460" />
-					<exclude name="TC_RLZ34462" />
-				</methods>
-			</class>
-			<class
-				name="com.learningservices.itemselection.mfe.testscripts.ImportCartSuite">
-				<methods>
-					<exclude name="TC_RLZ34423" />
-					<exclude name="TC_RLZ34671" />
-				</methods>
-			</class>
-			<class
-				name="com.learningservices.itemselection.mfe.testscripts.TopNavSuite"></class>
-		</classes>
-	</test>
-	<test name="ItemSelectionSuiteMFEUICases">
-		<classes>
-			<class
-				name="com.learningservices.itemselection.mfe.testscripts.AddContentsSuite">
-				<methods>
 					<include name="TC_RLZ34459" />
-					<include name="TC_RLZ34460" />
-					<include name="TC_RLZ34462" />
-				</methods>
-			</class>
-			<class
-				name="com.learningservices.itemselection.mfe.testscripts.ImportCartSuite">
-				<methods>
-					<include name="TC_RLZ34423" />
-					<include name="TC_RLZ34671" />
 				</methods>
 			</class>
 		</classes>
